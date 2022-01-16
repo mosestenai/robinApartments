@@ -6,10 +6,10 @@ $username = "";
 $email    = "";
 $errors = array(); 
 $minpassword = 7;
-$host="ec2-52-21-252-142.compute-1.amazonaws.com";
-$user="rlvsvmlvvkcxjm";
-$password="a238615c93fc0666ddb5b87a65fea4d005f607bc8a7de7159832fc4223b53d30";
-$dbname="d308b6rbpvmkpu";
+$host="";
+$user="";
+$password="";
+$dbname="";
 $port="5432";
  
 try{
